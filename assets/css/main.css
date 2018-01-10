@@ -1643,6 +1643,10 @@
         border: 0;
       }
 
+      #header h1 img {
+        width: 80%;
+      }
+
     #header p {
       text-transform: uppercase;
       font-weight: 400;
@@ -1859,10 +1863,6 @@
         #header h1 {
           font-size: 3em;
           letter-spacing: 13px;
-        }
-
-        #header h1 img {
-          width: 80%;
         }
 
         #header p {
