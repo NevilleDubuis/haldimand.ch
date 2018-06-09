@@ -2495,5 +2495,16 @@
         margin-top: 2em;
         padding-top: 2em;
       }
+  }
 
+  .texts {
+    padding-top: 15px !important;
+  }
+
+  .texts h2 {
+    margin-bottom: 0;
+  }
+
+  .texts p {
+    margin-bottom: 1em;
   }
